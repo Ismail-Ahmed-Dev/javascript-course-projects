@@ -4,7 +4,7 @@ This repository contains all projects I built while learning JavaScript.
 
 ## Projects
 
-- Guess My Number 🎯 (in progress)
+1. Guess My Number 🎯
 
 ## Skills Used
 
