@@ -1,13 +1,47 @@
 # JavaScript Course Projects 🚀
 
-This repository contains all projects I built while learning JavaScript.
+This repository contains all the projects I built while learning **JavaScript**,  
+as part of a structured course and hands-on practice.
 
-## Projects
+Each project focuses on core JavaScript concepts, DOM manipulation, and problem-solving skills.
 
-1. Guess My Number 🎯
+---
 
-## Skills Used
+## 📂 Projects
+
+1. **Guess My Number 🎯**  
+   A simple number guessing game that practices:
+   - DOM manipulation
+   - Conditional logic
+   - Event handling
+   - Game state management
+
+2. **Modal Window 🪟**  
+   A project to practice:
+   - DOM events
+   - Keyboard interactions
+   - CSS class toggling
+   - Clean and reusable functions
+
+---
+
+## 🛠️ Skills Used
 
 - JavaScript (ES6+)
 - DOM Manipulation
+- Event Handling
 - Problem Solving
+- Clean Code Practices
+
+---
+
+## 🚀 Goals of This Repository
+- Track my progress while learning JavaScript
+- Apply concepts through real projects
+- Build a solid portfolio for future opportunities
+
+---
+
+## 👨‍💻 Author
+**Ismail Ahmed**  
+Frontend Developer in Progress 🚀
