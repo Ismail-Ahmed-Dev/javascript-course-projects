@@ -23,6 +23,10 @@ This project is part of my JavaScript course practice projects.
 - JavaScript (Vanilla JS)
 
 ---
+## 🔗 Live Demo
+
+[Play Pig Game](https://ismail-ahmed-dev.github.io/javascript-course-projects/02-modal-window/)
+
 
 ## 📂 Project Structure
 
