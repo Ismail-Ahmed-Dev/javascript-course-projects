@@ -1,3 +1,7 @@
+
+---
+
+```md
 # Pig Game 🎲
 
 A simple and fun two-player dice game built with JavaScript as part of my JavaScript learning journey.
@@ -38,6 +42,10 @@ A simple and fun two-player dice game built with JavaScript as part of my JavaSc
 
 ✅ Completed  
 More improvements and features may be added in the future.
+
+## 🔗 Live Demo
+
+[Play Pig Game](https://ismail-ahmed-dev.github.io/javascript-course-projects/pig-game/)
 
 ## 👨‍💻 Author
 
