@@ -15,7 +15,7 @@ Each project focuses on core JavaScript concepts, DOM manipulation, and problem-
    - Conditional logic
    - Event handling
    - Game state management  
-   🔗 Live Demo: [Play Here](https://ismail-ahmed-dev.github.io/javascript-course-projects/guess-my-number/)
+   🔗 Live Demo: [Play Here](https://ismail-ahmed-dev.github.io/javascript-course-projects/01-guess-my-number/)
 
 2. **Modal Window 🪟**  
    A project to practice:
@@ -23,7 +23,7 @@ Each project focuses on core JavaScript concepts, DOM manipulation, and problem-
    - Keyboard interactions
    - CSS class toggling
    - Clean and reusable functions  
-   🔗 Live Demo: [Play Here](https://ismail-ahmed-dev.github.io/javascript-course-projects/modal-window/)
+   🔗 Live Demo: [Play Here](https://ismail-ahmed-dev.github.io/javascript-course-projects/02-modal-window/)
 
 3. **Pig Game 🎲**  
    A two-player dice game built with JavaScript that focuses on:
@@ -31,7 +31,7 @@ Each project focuses on core JavaScript concepts, DOM manipulation, and problem-
    - Event handling
    - DOM manipulation
    - Conditional rendering  
-   🔗 Live Demo: [Play Here](https://ismail-ahmed-dev.github.io/javascript-course-projects/pig-game/)
+   🔗 Live Demo: [Play Here](https://ismail-ahmed-dev.github.io/javascript-course-projects/03-pig-game/)
 
 ---
 
