@@ -41,7 +41,7 @@ More improvements and features may be added in the future.
 
 ## 🔗 Live Demo
 
-[Play Pig Game](https://ismail-ahmed-dev.github.io/javascript-course-projects/pig-game/)
+[Play Pig Game](https://ismail-ahmed-dev.github.io/javascript-course-projects/03-pig-game/)
 
 ## 👨‍💻 Author
 
